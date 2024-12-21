@@ -7,7 +7,7 @@ import joblistings from '@/components/joblistings.vue';
 
 
 <template>
-    <hero title="Test Title"/>
+    <hero title="Test Titlee"/>
   <HomeCards/>
   <joblistings :limit="3" :show-button="true"/>
 </template>
